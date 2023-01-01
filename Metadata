@@ -1217,7 +1217,7 @@
 						"name": "Jon Heacock",
 						"contractYear": "0"
 					},
-					"rival": "MIZZ",
+					"rival": "WVU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2022",
@@ -1237,7 +1237,7 @@
 					"state": "Iowa"
 				},
 				{
-					"abbreviation": "MIZZ",
+					"abbreviation": "WVU",
 					"prestige": "65",
 					"hexColor": "#F1B82D",
 					"offCoordinator": {
@@ -1284,8 +1284,8 @@
 						"name": "Eli Drinkwitz",
 						"contractYear": "0"
 					},
-					"name": "Missouri Tigers",
-					"state": "Missouri"
+					"name": "West Virginia Mountaineers",
+					"state": "West Virginia"
 				},
 				{
 					"abbreviation": "CU",
